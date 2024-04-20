@@ -1,0 +1,1 @@
+In this training directory, there will be some elements added to html files.
